@@ -1,0 +1,9 @@
+table > thead > tr {
+    background-color: cyan; 
+ }
+ 
+ table > tbody > tr {
+     background-color: red;
+     color: yellow;
+ }
+ 
